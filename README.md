@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://telegra.ph/file/8e3498a64b93a33116355.jpg" alt="Hyzer Md-V3" width="300" />
+<img src="https://telegra.ph/file/677780c08cc83059ac934.jpg" alt="Hyzer Md-V3" width="300" />
 
 </p>
 <h1 align="center">Hyzer Official</h1>
@@ -33,18 +33,6 @@
 > mc
 > ganti session
 > node .
-</h4>
-</p>
-
-## Untuk Sdcard (File Sudah Di Download)
-```bash
-> cd /sdcard
-> cd MD-V3
-> yarn
-> mc
-> ganti session
-> node . 
-```
 
 # Ambil Session Disini
 
