@@ -52,7 +52,7 @@ WhatsApp Bot Multi Device
 [Ilman](https://github.com/ilmanhdyt) | [Hyzer](https://github.com/Hyzerr)
  Author | Creator
  
-### Hyzer stat
+### Hyzer Statistics
 ![Ra Github stat](https://github-readme-stats.vercel.app/api?username=Hyzerr&theme=midnight-purple&show_icons=true) 
 
 ![Ra Github troppy](https://github-profile-trophy.vercel.app/?username=Hyzerr&theme=monokai)
