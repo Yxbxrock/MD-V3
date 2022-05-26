@@ -10,9 +10,12 @@
 </div>
 <p align="center">
   <a href="https://github.com/Hyzerr"><img title="Author" src="https://img.shields.io/badge/Author-Hyzerr.svg?style=for-the-badge&logo=github" /></a>
+  <a href="httts://instagram.com/zexyds_"><img title="Instagram " src="https://img.shields.io/badge/Instagram-Hyzerr.svg?style=for-the-badge&logo=instagram" /></a>
+  <a href="https://youtube.com/channel/UCBtUyjfIclyuu7yXKS0dAMw"><img title="Youtube" src="https://img.shields.io/badge/Youtube-Hyzerr.svg?style=for-the-badge&logo=youtube" /></a>
+  <a href="https://api-hyzer.herokuapp.com"><img title="Rest Api" src="https://img.shields.io/badge/Youtube-Hyzerr.svg?style=for-the-badge&logo=twitter" /></a>
   <h4 align="center">
   <a
-  <a href="https://wa.me/6287892711054">Chat Saya Jika Ingin Menanyakan Sesuatu >//< </a>
+  <a href="https://wa.me/6287892711054">Chat Saya Jika Ingin Menanyakan Sesuatu </a>
 </h4>
 </p>
 
@@ -50,7 +53,7 @@ WhatsApp Bot Multi Device
 ![Ra Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyzerr&theme=tokyonight)
 
 # Thanks to
- [![Nurutomo](https://github.com/Nurutomo.png?size=150)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=150)](https://github.com/ariffb25) | [![F](https://github.com/Paquito1923.png?size=150)](https://github.com/Paquito1923)
+ [![Nurutomo](https://github.com/Nurutomo.png?size=200)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=200)](https://github.com/ariffb25) | [![F](https://github.com/Paquito1923.png?size=200)](https://github.com/Paquito1923)
 ----|----|----
 [Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [Elyas](https://github.com/Paquito1923)
  Helpfully | Suhu? | Friends
