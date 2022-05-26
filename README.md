@@ -18,22 +18,6 @@
 </h4>
 </p>
 
-## CARA INSTALL DI TERMUX
-```bash
-> termux-setup-storage
-> pkg update && pkg upgrade
-> pkg install git
-> pkg install nodejs
-> pkg install bash
-> pkg install ffmpeg
-> pkg install libwebp
-> git clone https://github.com/Hyzerr/MD-V3
-> cd MD-V3
-> yarn
-> mc
-> ganti session
-> node .
-
 # Ambil Session Disini
 
 > Buka [ Linknya Disini ](https://replit.com/@zeeoneofc/Session-Md?lita=1&outputonly=1#.replit) 
