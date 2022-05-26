@@ -45,9 +45,7 @@
 # Ambil Session Disini
 
 > Buka [ Linknya Disini ](https://replit.com/@zeeoneofc/Session-Md?lita=1&outputonly=1#.replit) 
-> Buat Mode Desktop
-> Klik Tombol Run Di Pojok Kanan Atas
-> Scan
+> Untuk Tutorialnya Liat Dan Subscribe [ Here ](https://youtu.be/7wfSvv4AHsQ) 
 
 # Run On Heroku
 
@@ -60,16 +58,14 @@ WhatsApp Bot Multi Device
 
 | BuildPack | LINK |
 |--------|--------|
-| **FFMPEG** |[here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
-| **IMAGEMAGICK** | [here](https://github.com/mcollina/heroku-buildpack-imagemagick.git) |
-| **Node.js [salin]**     | heroku/nodejs|
+| **FFMPEG** |[HERE](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
+| **IMAGEMAGICK** | [HERE](https://github.com/mcollina/heroku-buildpack-imagemagick.git) |
+| **Node.js**     | heroku/nodejs|
 
 
 # Creator Sc
  [![Hyzerr](https://github.com/Hyzerr.png?size=300)](https://github.com/Hyzerr)
-----|----|----
-[Hyzer](https://github.com/Hyzerr) 
-Author
+[Hyzer Official](https://github.com/Hyzerr) 
 
 ## Arguments `node . [--options] [<session name>]`
 
