@@ -33,7 +33,9 @@
 > mc
 > ganti session
 > node .
-# Untuk Sdcard (File Sudah Di Download)
+
+## Untuk Sdcard (File Sudah Di Download)
+```bash
 > cd /sdcard
 > cd MD-V3
 > yarn
@@ -71,6 +73,15 @@ WhatsApp Bot Multi Device
   </a href="https://github.com/Hyzerr"><img src="https://github.com/Hyzerr.png?size=128" height="200" 
 </p> 
 
+# THANKS TO 
+ [`Baileys`](https://github.com/adiwajshing/Baileys)
+
+ [`Elyas`](https://github.com/Paquito1923)
+
+ [`Nurutomo`](https://github.com/Nurutomo)
+ 
+ [`Arrifb`](https://github.com/ariffb25) 
+ 
 ## Arguments `node . [--options] [<session name>]`
 
 #### Contoh: `node . --self --restrict --autoread`
