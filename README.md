@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://telegra.ph/file/677780c08cc83059ac934.jpg" alt="Hyzer Md-V3" width="300" />
+<img src="https://telegra.ph/file/8e3498a64b93a33116355.jpg" alt="Hyzer Md-V3" width="300" />
 
 </p>
 <h1 align="center">Hyzer Official</h1>
@@ -47,19 +47,6 @@ WhatsApp Bot Multi Device
   </a href="https://github.com/Hyzerr"><img src="https://github.com/Hyzerr.png?size=128" height="200" 
 </p> 
 
-# THANKS TO 
- [`Baileys`](https://github.com/adiwajshing/Baileys)
-
- [`Elyas`](https://github.com/Paquito1923)
-
- [`Nurutomo`](https://github.com/Nurutomo)
- 
- [`Arrifb`](https://github.com/ariffb25) 
- 
-## Arguments `node . [--options] [<session name>]`
-
-#### Contoh: `node . --self --restrict --autoread`
- 
 ### Hyzer stat
 ![Ra Github stat](https://github-readme-stats.vercel.app/api?username=Hyzerr&theme=midnight-purple&show_icons=true) 
 
@@ -67,3 +54,8 @@ WhatsApp Bot Multi Device
 
 ![Ra Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyzerr&theme=tokyonight)
 
+# Thanks to
+ [![Nurutomo](https://github.com/Nurutomo.png?size=150)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=150)](https://github.com/ariffb25) | [![F](https://github.com/Paquito1923.png?size=150)](https://github.com/Paquito1923)
+----|----|----
+[Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [Elyas](https://github.com/Paquito1923)
+ Helpfully | Suhu? | Friends
