@@ -1,24 +1,24 @@
 //=============『 Utama 』================== //
-global.owner = ['6287892711054'] 
+global.owner = ['6282365089294'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Hyzer Official'
-global.numberowner = '6287892711054'
-global.instagram = 'https://instagram.com/hyzer_stfu'
+global.nameowner = 'Unknown'
+global.numberowner = '6282365089294'
+global.instagram = 'https://instagram.com/yxbxrock'
 global.github = 'https://github.com/Hyzerr'
 global.dana = '087892711054'
 global.pulsa = '085212023766'
 global.gopay = '087892711054'
 
 //=============『 Info Bot 』=================//
-global.namebot = '𝚂𝙷𝙸𝚁𝙾-𝙼𝙳'
-global.gc = 'https://chat.whatsapp.com/Jzd9DEVB5nODtNBk1VCNrV'
-global.web = 'https://zex-api.herokuapp.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = 'karyl-bot'
+global.gc = 'https://chat.whatsapp.com/BjLIOy9kDZ4HQJawOiX4mh'
+global.web = 'https://instagram.com/yxbxrock' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.wm = '𝚂𝙷𝙸𝚁𝙾-𝙼𝙳'
+global.wm = 'karyl-bot'
 global.watermark = wm
 global.wm2 = '                     「 𝚂𝙷𝙸𝚁𝙾-𝙼𝙳 あ⁩ 」'
 global.wm3 = '⫹⫺ 𝚂𝙷𝙸𝚁𝙾-𝙼𝙳'
@@ -32,8 +32,8 @@ global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = 'Made By'
-global.author = '𝚂\n𝙷\n𝙸\n𝚁\n𝙾\n𝙼\n𝙳\n\n\nend'
+global.packname = 'Created By'
+global.author = 'Karyl Bot'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
